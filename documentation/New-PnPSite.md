@@ -226,7 +226,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsPublic
-Specifies if the site is public.
+Specifies whether the corresponding Microsoft365 group type. If not specied, group is considered Public.
 
 ```yaml
 Type: SwitchParameter
